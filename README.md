@@ -13,3 +13,7 @@ Perform follwing operations on this dataset.
 8. Perform stemming & lemmatization on the review text.
 9. Perform the word vectorization on review text using Bag of Words technique.
 10. Create representation of Review Text by calculating Term Frequency and Inverse Document Frequency (TF-IDF)
+
+
+### DATASET LINK: https://www.kaggle.com/datasets/sid321axn/amazon-alexa-reviews
+### Kaggle Notebook: https://www.kaggle.com/code/sauhardsaini/nlp-on-amazon-alexa
